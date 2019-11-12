@@ -1,2 +1,3 @@
-# leozhu1996
-first github pages
+Hello and welcome to my webpage
+
+Thanks to Rohit Singla for inspiring me to create one!
